@@ -1,3 +1,34 @@
-h1, h2, a, p {
+h1, h2, h3, p {
   text-align: center;
+  font-family: Verdana;
+}
+
+body {
+  background-color: Black;
+}
+
+h1 {
+  font-size: 50px;
+  color: White;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
+}
+
+.download_link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.footer p {
+  text-align: right;
+  color: grey;
 }
